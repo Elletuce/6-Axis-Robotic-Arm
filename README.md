@@ -32,7 +32,7 @@ Mechanical design considerations include:
 | Component | Description |
 |---|---|
 | Microcontroller | ESP32 |
-| Shoulder Motor | NEMA 23 Stepper Motor |
+| Shoulder & Elbow Motor | NEMA 23 Stepper Motor |
 | Other Joint Motors | NEMA 17 Stepper Motors |
 | Motor Driver | DM542 |
 | Motor Drivers | TMC2209 |
