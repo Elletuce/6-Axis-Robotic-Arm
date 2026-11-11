@@ -1,5 +1,5 @@
 # 6-DOF Robotic Arm
-
+![Robotic Arm CAD Render](Documentation/Images/robotic-arm-render.png)
 A custom-designed, 6-degree-of-freedom robotic arm developed as a personal engineering project. This repository contains the mechanical CAD designs, electronic hardware documentation, and software used to control the robotic arm.
 
 The goal of this project is to design, manufacture, and program a functional robotic arm capable of precise movement and object manipulation.
